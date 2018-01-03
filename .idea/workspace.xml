@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="edfc7aa1-c676-40f8-b753-78df1c8f3e3b" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/App.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/app/App.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/index/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/logo/Logo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/logo/Logo.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/logo/kotlin.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/logo/react.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/ticker/Ticker.kt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index/index.kt" afterPath="$PROJECT_DIR$/src/index/index.kt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,10 +16,10 @@
       <file leaf-file-name="index.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index/index.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="225">
+              <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
-                <element signature="e#15#89#0" expanded="true" />
+                <element signature="e#15#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,12 +217,12 @@
       <option name="presentableId" value="Default" />
       <updated>1514945929307</updated>
       <workItem from="1514945932234" duration="629000" />
-      <workItem from="1514946586562" duration="617000" />
+      <workItem from="1514946586562" duration="940000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1246000" />
+    <option name="totallyTimeSpent" value="1569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -282,7 +273,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#15#89#0" expanded="true" />
+            <element signature="e#15#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -305,10 +296,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index/index.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="225">
+          <caret line="15" column="39" lean-forward="false" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
-            <element signature="e#15#89#0" expanded="true" />
+            <element signature="e#15#129#0" expanded="true" />
           </folding>
         </state>
       </provider>
