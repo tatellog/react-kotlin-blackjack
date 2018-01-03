@@ -1,14 +1,15 @@
 package index
 
-import app.*
-import kotlinext.js.*
-import react.dom.*
-import kotlin.browser.*
+import react.dom.h1
+import react.dom.render
+import kotlin.browser.document
 
 fun main(args: Array<String>) {
-    requireAll(require.context("src", true, js("/\\.css$/")))
 
-    render(document.getElementById("root")) {
-        app()
+    val rootDiv = document.getElementById("root")
+        render(rootDiv) {
+            h1 {
+                +"Black Jack" 
+            }
     }
 }
