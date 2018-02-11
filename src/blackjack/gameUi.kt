@@ -7,9 +7,11 @@ import react.RBuilder
 import react.dom.div
 import react.dom.h1
 
-fun RBuilder.gameUi(game: Game){
+
+fun RBuilder.gameUi(game: Game, eh: EH){
     div {
         h1 { +"Black Jack"}
+        buttonBar(eh)
 
         div {
             attrs.title = "Foo"

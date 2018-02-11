@@ -24,7 +24,7 @@ fun RBuilder.handUi(hand: Hand) {
         div { b { +"Player Hand" } }
         div { b {
             hand.cards.forEach {
-                div { + it.toString() }
+                div { + it.toString()    }
             }
         } }
         div { b { +"${hand.handValue()} Points" } }
